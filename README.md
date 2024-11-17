@@ -22,24 +22,13 @@ The script removes the following metadata:
 1. Make sure you have Swift installed on your system
 2. Clone this repository: git clone https://github.com/hdrapin/ImageMetadataCleaner.git
 
-## Usage 
-
-### Compile the script:
-   ''' bash
-  swiftc ImageMetadataCleaner.swift '''
-OR 
-
-### Command line execution:
-  ''' bash
-  swift ImageMetadataCleaner.swift "/path/to/folder" '''
-
-
+## Usage: Command line execution / bash:
+  ``swift ImageMetadataCleaner.swift "/path/to/folder" ``
 
 ## Requirements
 
 - macOS 10.15 or higher
 - Swift 5.0 or higher
-- Xcode 12.0 or higher (for development)
 
 ## License
 
